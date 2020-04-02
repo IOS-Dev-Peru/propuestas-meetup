@@ -1,0 +1,27 @@
+== iOS Dev Perú
+
+image::./images/iosdevperumeetups.png[]
+
+=== Propuestas de charlas para los meetups
+
+
+Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo, otros miembros pueden votar por las charlas con reacciones.
+
+Para realizar una propuesta, seguir los siguientes pasos:
+
+. Registrar un **https://github.com/iOS-Dev-Peru/propuestas-meetup/issues[issue^]** con el tema de tu charla y una descripción.
+. Debes usar la plantilla *_Plantilla de Propuesta_* y cumplir con lo especificado en ella.
+. Es importante asignar la etiqueta `workshop` o `talk` dependiendo del contenido de tu charla.
+
+
+
+Nosotros nos pondremos en contacto contigo :D
+
+
+## Links
+
+. Meetup iOS Dev Perú https://www.meetup.com/es-ES/iOS-Dev-Peru/[https://www.meetup.com/es-ES/iOS-Dev-Peru/^]
+
+. Repositorio https://github.com/iOS-Dev-Peru[https://github.com/iOS-Dev-Peru^]
+
+. Grupo en Facebook https://www.facebook.com/groups/iospe/[https://www.facebook.com/groups/iospe/^]
